@@ -28,9 +28,10 @@ Hi, I'm Yoanna Klinchova. You might recognize me as a C# student with a passion 
 --- 
 
 
-- 🌱 I’m currently learning C# in SoftUni & Business IT at Plovdiv University 'Paisii Hilendarski'.
-- 👀 I’m interested in coding with C#, also in the Front-End world.
+- 🌱 I’m currently learning Programming with C# in SoftUni & Business IT at Plovdiv University 'Paisii Hilendarski'.
+- 👀 I’m interested in coding and computer science.
 - ⚡ Fun fact: I love staying on my PC for hours and sometimes for days.
+- 👩🏽‍🍼 I am a mom of a 1 year old baby boy.
 - 📫 Reach me: klinchovay@gmail.com | klinchoni@students.softuni.bg
   
   
