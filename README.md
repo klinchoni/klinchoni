@@ -33,7 +33,7 @@ Hi, I'm Yoanna Klinchova. You might recognize me as a C# student with a passion 
 💻 I also completed a professional diploma program at SoftUni as a Back-End Software Engineer with C#, where I gained hands-on experience in building robust and scalable web applications.
 
 - 👩‍💻 About Me
-I’m a dedicated and detail-oriented software developer with a strong background in both business and technology. I studied Business Information Technologies at Plovdiv University "Paisii Hilendarski", while simultaneously completing the Back-End Software Engineer with C# diploma program at SoftUni.
+-- I’m a dedicated and detail-oriented software developer with a strong background in both business and technology. I studied Business Information Technologies at Plovdiv University "Paisii Hilendarski", while simultaneously completing the Back-End Software Engineer with C# diploma program at SoftUni.
 
 🚀 Studying in parallel allowed me to combine academic knowledge with practical, project-based learning. At SoftUni, I gained hands-on experience in designing, developing, and maintaining modern web applications using:
 
