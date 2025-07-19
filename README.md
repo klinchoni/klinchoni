@@ -8,9 +8,6 @@ Hi, I'm Yoanna Klinchova. You might recognize me as a C# student with a passion 
 
 — Oscar Wilde
 
-<div id="header" align="center">
-  <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 100px></picture>
-</div>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/yoanna-klinchova-96118927a/">
