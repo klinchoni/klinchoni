@@ -28,11 +28,36 @@ Hi, I'm Yoanna Klinchova. You might recognize me as a C# student with a passion 
 --- 
 
 
-- 🌱 I’m currently learning Programming with C# in SoftUni & Business IT at Plovdiv University 'Paisii Hilendarski'.
-- 👀 I’m interested in coding and computer science.
+- 👩‍💻 About Me
+- 🎓 I hold a Bachelor's degree in Business Information Technologies from the University of Plovdiv "Paisii Hilendarski".
+💻 I also completed a professional diploma program at SoftUni as a Back-End Software Engineer with C#, where I gained hands-on experience in building robust and scalable web applications.
+
+
+I’m a dedicated and detail-oriented software developer with a strong background in both business and technology. I studied Business Information Technologies at Plovdiv University "Paisii Hilendarski", while simultaneously completing the Back-End Software Engineer with C# diploma program at SoftUni.
+
+🚀 Studying in parallel allowed me to combine academic knowledge with practical, project-based learning. At SoftUni, I gained hands-on experience in designing, developing, and maintaining modern web applications using:
+
+C# / .NET Core
+
+Entity Framework
+
+MS SQL Server
+
+RESTful APIs
+
+ASP.NET MVC / Web API
+
+LINQ, OOP, and Design Patterns
+
+🛠️ I enjoy solving real-world problems with clean, efficient code and continuously learning new technologies. I’m particularly passionate about building scalable back-end systems and working with databases.
+
+📂 On this GitHub profile, you’ll find some of my projects and experiments — from coursework to personal ideas I’ve brought to life.
+
+🌱 Currently, I’m focused on expanding my knowledge in cloud technologies, system design, and DevOps tools.
+
 - ⚡ Fun fact: I love staying on my PC for hours and sometimes for days.
 - 👩🏽‍🍼 I am a mom of a 1 year old baby boy.
-- 📫 Reach me: klinchovay@gmail.com | klinchoni@students.softuni.bg
+- 📫 Reach me: klinchovay@gmail.com 
   
   
 <div align="center">
