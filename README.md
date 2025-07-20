@@ -1,76 +1,87 @@
-## About me
+## 👩‍💻 About Me
 
-Hi, I'm Yoanna Klinchova. You might recognize me as a C# student with a passion to learn new things and explore the world of IT.
-
+Hi, I'm **Yoanna Klinchova** — a passionate C# developer with a strong interest in back-end technologies and a drive to constantly grow and improve in the world of IT.
 
 ---
 > “Experience is the name everyone gives to their mistakes.” 
+>
+> — Oscar Wilde
 
-— Oscar Wilde
+---
 
+### 🎓 Education
+- Bachelor's degree in **Business Information Technologies** from **Plovdiv University "Paisii Hilendarski"**
+- Professional diploma from **SoftUni** as a **Back-End Software Engineer with C#**
 
-<div id="badges" align="center">
+> I studied in both institutions **in parallel**, combining academic theory with practical, real-world development skills.
+
+---
+
+### 💻 Skills & Technologies
+<div align="center">
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="MS SQL Server" alt="MS SQL Server" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/indesign/indesign-plain.svg" title="InDesign" alt="InDesign" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" title="Illustrator" alt="Illustrator" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
+<img src="https://img.icons8.com/color/48/canva.png" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
+
+</div>
+
+---
+
+### 🚀 What I'm Working On
+- Building robust back-end systems using C#, .NET Core, and RESTful APIs
+- Enhancing my skills in **cloud technologies**, **system design**, and **DevOps**
+
+---
+
+### 🛠 Tech Stack
+- **Languages:** C#, JavaScript, PHP, C++, HTML/CSS
+- **Frameworks:** .NET Core, ASP.NET MVC/Web API
+- **Databases:** MS SQL Server
+- **Tools:** Git, GitHub, Visual Studio, VS Code
+- **Design:** Figma, Adobe Suite (Photoshop, Illustrator, InDesign), Canva
+
+---
+
+### ✨ Fun Facts
+- 👩🏽‍🍼 I’m a proud mom of a 1-year-old baby boy.
+- ⚡ I can spend hours (or days!) immersed in coding or exploring design ideas.
+
+---
+
+### 📫 Connect With Me
+<div align="center">
   <a href="https://www.linkedin.com/in/yoanna-klinchova-96118927a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/klinchoni/">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-   <a href="https://www.facebook.com/yoannaklinchova/">
+  <a href="https://www.facebook.com/yoannaklinchova/">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  
 </div>
 
---- 
+📬 **Email:** klinchovay@gmail.com
 
+---
 
-
-- 🎓 I hold a Bachelor's degree in Business Information Technologies from the University of Plovdiv "Paisii Hilendarski".
-- 💻 I also completed a professional diploma program at SoftUni as a Back-End Software Engineer with C#, where I gained hands-on experience in building robust and scalable web applications.
-
-- 👩‍💻 About Me
-  
--- I’m a dedicated and detail-oriented software developer with a strong background in both business and technology. I studied Business Information Technologies at Plovdiv University "Paisii Hilendarski", while simultaneously completing the Back-End Software Engineer with C# diploma program at SoftUni.
-
-🚀 Studying in parallel allowed me to combine academic knowledge with practical, project-based learning. At SoftUni, I gained hands-on experience in designing, developing, and maintaining modern web applications using:
-
-C# / .NET Core
-
-Entity Framework
-
-MS SQL Server
-
-RESTful APIs
-
-ASP.NET MVC / Web API
-
-LINQ, OOP, and Design Patterns
-
-🛠️ I enjoy solving real-world problems with clean, efficient code and continuously learning new technologies. I’m particularly passionate about building scalable back-end systems and working with databases.
-
-📂 On this GitHub profile, you’ll find some of my projects and experiments — from coursework to personal ideas I’ve brought to life.
-
-🌱 Currently, I’m focused on expanding my knowledge in cloud technologies, system design, and DevOps tools.
-
-- ⚡ Fun fact: I love staying on my PC for hours and sometimes for days.
-- 👩🏽‍🍼 I am a mom of a 1 year old baby boy.
-- 📫 Reach me: klinchovay@gmail.com 
-  
-  
 <div align="center">
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-:hammer_and_wrench: <strong>Languages and tools:<strong/>
-<br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.cdnlogo.com/logos/v/82/visual-studio-code.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.cdnlogo.com/logos/h/84/html.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 <!--
 **klinchoni/klinchoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
