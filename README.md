@@ -56,7 +56,7 @@ Hi, I'm **Yoanna Klinchova** — a passionate C# developer with a strong interes
 ---
 
 ### ✨ Fun Facts
-- 👩🏽‍🍼 I’m a proud mom of a 1-year-old baby boy.
+- 👩🏽‍🍼 I’m a proud mom of a 2-year-old baby boy.
 - ⚡ I can spend hours (or days!) immersed in coding or exploring design ideas.
 
 ---
